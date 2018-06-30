@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "381102762101",
+    "firebase_url": "https://produp-chile.firebaseio.com",
+    "project_id": "produp-chile",
+    "storage_bucket": "produp-chile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381102762101:android:6a8ab429142a5dda",
+        "android_client_info": {
+          "package_name": "com.example.raebeb.produp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381102762101-00s0c5474mshj6hfecqna26g4isa8gn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raebeb.produp",
+            "certificate_hash": "5238cee616551c89024fe96796c0d0d9648c3b55"
+          }
+        },
+        {
+          "client_id": "381102762101-0jih07kqjhhcflsqdo6247llj3h69hea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe6LVA0Wech6vQtrwxCHD0V2MVMPWEX_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381102762101-0jih07kqjhhcflsqdo6247llj3h69hea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
